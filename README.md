@@ -395,21 +395,6 @@ python src/llm_integration.py
 python src/sfeem.py
 ```
 
----
-
-# Research Contributions
-
-EXHALE contributes:
-
-• An interpretable machine learning framework for asthma risk prediction using nationally representative healthcare data.
-
-• A clinical reasoning generation pipeline that transforms SHAP-based explanations into human-readable medical narratives using multiple LLMs.
-
-• FEEM, a lexical fidelity evaluation framework for assessing explanation faithfulness.
-
-• S-FEEM, a semantic extension that evaluates explanation fidelity, consistency, and hallucination robustness.
-
-• A reproducible methodology for studying trustworthiness and interpretability in LLM-augmented healthcare AI systems.
 
 ---
 
